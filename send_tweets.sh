@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/$USER/hello-world-bot/
-python3 bot.py
+cd /home/$USER/twitterbot/
+python bot.py
